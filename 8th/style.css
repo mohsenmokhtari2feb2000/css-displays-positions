@@ -1,0 +1,27 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+section {
+    height: 521px;
+    width: 521px;
+    background-color: rgb(255, 255, 255);
+    border: solid rgb(151, 151, 215) 3px;
+}
+.black {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+.white {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(184, 182, 182);
+}
+
+
