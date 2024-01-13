@@ -1,0 +1,54 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+div {
+    display: inline-block;
+}
+.big-square {
+    height: 600px;
+    width: 600px;
+    border: solid black 3px;
+    margin: 20px;
+    position: relative;
+
+}
+div {
+    display: inline-block;
+}
+.little-square-1 {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    margin: 20px;
+    position:absolute;
+    right: 0;
+    
+}
+.little-box-2 {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    margin: 20px;
+    position: absolute;
+    left: 0;
+}
+.little-box-3 {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    margin: 20px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.little-box-4 {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    margin: 20px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
