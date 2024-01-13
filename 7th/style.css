@@ -1,0 +1,69 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.stem {
+    background-color: green;
+    width: 20px;
+    height: 500px;
+    position: absolute;
+    top: 45%;
+    left: 39.4%;
+
+}
+.leaf {
+    background-color: rgb(88, 186, 88);
+    height: 150px;
+    width: 150px;
+    border-radius: 0 99% 0 99%;
+    position: absolute;
+    top: 70%;
+    left: 24%;
+}
+.circle {
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+    border-radius: 50%;
+    position: absolute;
+    top: 41%;
+    left: 37.7%;
+    z-index: 1;
+}
+.gol-1 {
+    background-color: red;
+    height: 170px;
+    width: 170px;
+    border-radius: 99% 0 99% 0;
+    position: absolute;
+    top: 25%;
+    left: 41%;
+}
+.gol-2 {
+    background-color: red;
+    height: 170px;
+    width: 170px;
+    border-radius:  0 99% 0 99% ;
+    position: absolute;
+    top: 25%;
+    left: 22%;
+}
+.gol-3 {
+    background-color: red;
+    height: 170px;
+    width: 170px;
+    border-radius: 99% 0 99% 0;
+    position: absolute;
+    top: 44%;
+    left: 22%;
+}
+.gol-4 {
+    background-color: red;
+    height: 170px;
+    width: 170px;
+    border-radius: 0 99% 0 99% ;
+    position: absolute;
+    top: 44%;
+    left: 41%;
+}
