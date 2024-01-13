@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+
+section {
+    border: solid black 3px;
+    height: 400px;
+    width: 500px;
+    position: relative;
+}
+
+div {
+    background-color: aqua;
+    width: 100px;
+    height: 75px;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    text-align: center;
+    padding-top: 15px;
+}
